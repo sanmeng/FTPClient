@@ -1,0 +1,28 @@
+D:\Project\lht_ftp\lht_ftp\bin\Release\lht_ftp.exe
+D:\Project\lht_ftp\lht_ftp\bin\Release\lht_ftp.pdb
+D:\Project\lht_ftp\lht_ftp\bin\Release\FTPControl.dll
+D:\Project\lht_ftp\lht_ftp\bin\Release\ListViewEx.dll
+D:\Project\lht_ftp\lht_ftp\bin\Release\Login.dll
+D:\Project\lht_ftp\lht_ftp\bin\Release\FTPControl.pdb
+D:\Project\lht_ftp\lht_ftp\bin\Release\ListViewEx.pdb
+D:\Project\lht_ftp\lht_ftp\bin\Release\Login.pdb
+D:\Project\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.csprojResolveAssemblyReference.cache
+D:\Project\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.MainForm.resources
+D:\Project\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.Properties.Resources.resources
+D:\Project\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.csproj.GenerateResource.Cache
+D:\Project\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.exe
+D:\Project\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.pdb
+E:\project\source code\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.exe
+E:\project\source code\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.pdb
+E:\project\source code\lht_ftp\lht_ftp\bin\Release\lht_ftp.exe
+E:\project\source code\lht_ftp\lht_ftp\bin\Release\lht_ftp.pdb
+E:\project\source code\lht_ftp\lht_ftp\bin\Release\FTPControl.dll
+E:\project\source code\lht_ftp\lht_ftp\bin\Release\ListViewEx.dll
+E:\project\source code\lht_ftp\lht_ftp\bin\Release\Login.dll
+E:\project\source code\lht_ftp\lht_ftp\bin\Release\FTPControl.pdb
+E:\project\source code\lht_ftp\lht_ftp\bin\Release\ListViewEx.pdb
+E:\project\source code\lht_ftp\lht_ftp\bin\Release\Login.pdb
+E:\project\source code\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.csprojResolveAssemblyReference.cache
+E:\project\source code\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.MainForm.resources
+E:\project\source code\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.Properties.Resources.resources
+E:\project\source code\lht_ftp\lht_ftp\obj\x86\Release\lht_ftp.csproj.GenerateResource.Cache

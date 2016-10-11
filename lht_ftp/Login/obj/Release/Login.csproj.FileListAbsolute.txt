@@ -1,0 +1,16 @@
+D:\Project\lht_ftp\Login\bin\Release\Login.dll
+D:\Project\lht_ftp\Login\bin\Release\Login.pdb
+D:\Project\lht_ftp\Login\obj\Release\Login.LoginForm.resources
+D:\Project\lht_ftp\Login\obj\Release\Login.Properties.Resources.resources
+D:\Project\lht_ftp\Login\obj\Release\Login.csproj.GenerateResource.Cache
+D:\Project\lht_ftp\Login\obj\Release\Login.dll
+D:\Project\lht_ftp\Login\obj\Release\Login.pdb
+D:\Project\lht_ftp\Login\obj\Release\Login.csprojResolveAssemblyReference.cache
+E:\project\source code\lht_ftp\Login\bin\Release\Login.dll
+E:\project\source code\lht_ftp\Login\bin\Release\Login.pdb
+E:\project\source code\lht_ftp\Login\obj\Release\Login.csprojResolveAssemblyReference.cache
+E:\project\source code\lht_ftp\Login\obj\Release\Login.LoginForm.resources
+E:\project\source code\lht_ftp\Login\obj\Release\Login.Properties.Resources.resources
+E:\project\source code\lht_ftp\Login\obj\Release\Login.csproj.GenerateResource.Cache
+E:\project\source code\lht_ftp\Login\obj\Release\Login.dll
+E:\project\source code\lht_ftp\Login\obj\Release\Login.pdb

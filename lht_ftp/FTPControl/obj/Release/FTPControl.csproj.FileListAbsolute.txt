@@ -1,0 +1,18 @@
+D:\Project\lht_ftp\FTPControl\bin\Release\FTPControl.dll
+D:\Project\lht_ftp\FTPControl\bin\Release\FTPControl.pdb
+D:\Project\lht_ftp\FTPControl\obj\Release\FTPControl.FTPControl.resources
+D:\Project\lht_ftp\FTPControl\obj\Release\FTPControl.NewFolderForm.resources
+D:\Project\lht_ftp\FTPControl\obj\Release\FTPControl.Properties.Resources.resources
+D:\Project\lht_ftp\FTPControl\obj\Release\FTPControl.csproj.GenerateResource.Cache
+D:\Project\lht_ftp\FTPControl\obj\Release\FTPControl.dll
+D:\Project\lht_ftp\FTPControl\obj\Release\FTPControl.pdb
+D:\Project\lht_ftp\FTPControl\obj\Release\FTPControl.csprojResolveAssemblyReference.cache
+E:\project\source code\lht_ftp\FTPControl\bin\Release\FTPControl.dll
+E:\project\source code\lht_ftp\FTPControl\bin\Release\FTPControl.pdb
+E:\project\source code\lht_ftp\FTPControl\obj\Release\FTPControl.csprojResolveAssemblyReference.cache
+E:\project\source code\lht_ftp\FTPControl\obj\Release\FTPControl.FTPControl.resources
+E:\project\source code\lht_ftp\FTPControl\obj\Release\FTPControl.NewFolderForm.resources
+E:\project\source code\lht_ftp\FTPControl\obj\Release\FTPControl.Properties.Resources.resources
+E:\project\source code\lht_ftp\FTPControl\obj\Release\FTPControl.csproj.GenerateResource.Cache
+E:\project\source code\lht_ftp\FTPControl\obj\Release\FTPControl.dll
+E:\project\source code\lht_ftp\FTPControl\obj\Release\FTPControl.pdb
